@@ -1,0 +1,3 @@
+# SODE_KAKARI
+## Overview
+サークルで作成したGoogleフォームとGoogleドキュメントを連携させ自動記録させるためのプログラムです
